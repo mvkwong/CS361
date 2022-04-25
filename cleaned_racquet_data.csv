@@ -1,0 +1,233 @@
+,Racquet,Head Size (in),Length,Strung Weight (oz),Strung Weight (g),Balance,Balance Number,HH or HL,Swingweight,Stiffness,Power Level,Stroke Style,Swing Speed,Mains,Crosses,Minimum String Tension,Maximum String Tension
+0,Wilson Blade 100 v7,100,27,11.2,318,-3,3,HL,329,62,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+1,Wilson Blade 98 (16x19) v6,98,27,11.3,320,-3,3,HL,327,67,Low-Medium,Full,Fast,16,19,50,60
+2,Wilson Blade 98L v6,98,27,10.6,303,-1,1,HL,313,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+3,Wilson Blade 98 16x19 v7,98,27,11.4,323,-4,4,HL,328,62,Low-Medium,Full,Fast,16,19,50,60
+4,Wilson Blade 98 18x20 v7,98,27,11.4,323,-4,4,HL,334,62,Low,Full,Fast,18,20,50,60
+5,Wilson Blade 104 v7,104,27.5,10.8,306,-6,6,HL,321,60,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+6,Wilson Blade 100L v7,100,27,10.6,301,-1,1,HL,316,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+7,Wilson Blade SW102 Autograph,102,28,11.4,323,-7,7,HL,349,69,Low-Medium,Medium-Full,Medium-Fast,18,19,50,60
+8,Wilson Clash 100S,100,27,10.9,309,-7,7,HL,317,54,Low-Medium,Medium-Full,Medium-Fast,18,16,48,58
+9,Wilson Clash 100 Pro Silver,100,27,11.5,326,-9,9,HL,322,55,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+10,Wilson Clash 100 Silver,100,27,11,312,-7,7,HL,312,55,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+11,Wilson Clash 100L Silver,100,27,10.3,292,-6,6,HL,300,54,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+12,Wilson Clash 100,100,27,11,312,-7,7,HL,312,55,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+13,Wilson Clash 100 Pro (Formerly Tour),100,27,11.5,326,-9,9,HL,322,55,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+14,Wilson Clash 98,98,27,11.5,326,-9,9,HL,326,55,Low,Full,Fast,16,19,48,58
+15,Wilson Clash 100L,100,27,10.3,292,-6,6,HL,300,54,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+16,Wilson Clash 100UL,100,27,9.9,281,-1,1,HL,299,60,Low-Medium,Medium-Full,Medium-Fast,16,19,48,58
+17,Wilson Clash 108,108,27.25,10.4,295,0,0,Bal,312,56,Medium,Medium,Medium,16,19,48,58
+18,Wilson Pro Staff Six.One 100 v13,100,27,11.4,323,-5,5,HL,323,64,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+19,Wilson Pro Staff 97 v13,97,27,11.7,332,-7,7,HL,321,66,Low,Full,Fast,16,19,50,60
+20,Wilson Pro Staff RF97 v13,97,27,12.6,357,-9,9,HL,333,68,Low,Full,Fast,16,19,50,60
+21,Wilson Pro Staff 97L v13,97,27,10.8,306,-3,3,HL,311,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+22,Wilson Pro Staff 97UL v13,97,27,10,283,-4,4,HL,296,66,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+23,Wilson Pro Staff 97 Black,97,27,11.7,331.69,-7,7,HL,324,66,Low,Full,Fast,16,19,50,60
+24,Wilson Ultra 100 Roland Garros,100,27,11.2,318,-4,4,HL,312,73,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+25,Wilson Ultra 100 v2,100,27,11.2,318,-4,4,HL,314,74,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+26,Wilson Ultra 100L v2,100,27,10.3,292,-3,3,HL,302,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+27,Wilson Ultra 100L v3,100,27,10.4,295,-4,4,HL,296,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+28,Wilson Ultra 100 v3,100,27,11.2,318,-4,4,HL,312,73,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+29,Wilson Ultra 100UL v3,100,27,9.6,272,-3,3,HL,291,68,Low-Medium,Medium-Full,Medium-Fast,16,19,47,57
+30,Wilson Ultra 108 v3,108,27.25,10,283,-1,1,HL,306,69,Medium-High,Compact-Medium,Slow-Moderate,16,18,53,63
+31,Wilson Burn 100 v4,100,27,11.2,318,-3,3,HL,328,71,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+32,Wilson Burn 100S v4,100,27,11.2,318,-3,3,HL,326,72,Low-Medium,Medium-Full,Medium-Fast,18,16,50,60
+33,Wilson Burn 100LS v4,100,27,10.5,298,-3,3,HL,314,71,Low-Medium,Medium-Full,Medium-Fast,18,16,50,60
+34,Wilson Burn 100ULS v4,100,27,9.7,275,-1,1,HL,304,67,Low-Medium,Medium-Full,Medium-Fast,18,16,50,60
+37,Wilson nPro Open,100,27,11.2,318,-4,4,HL,325,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+38,Wilson Hyper Hammer 5.3 Stretch OS,110,27.5,9,255,8,8,HH,301,70,Medium,Medium,Medium,16,20,55,65
+39,Babolat Pure Aero USA,100,27,11.2,318,-4,4,HL,324,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+40,Babolat Pure Aero Rafa,100,27,11.2,318,-4,4,HL,324,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+41,Babolat Pure Aero VS,98,27,11.3,320,-6,6,HL,321,67,Low-Medium,Medium-Full,Medium-Fast,16,20,50,59
+42,Babolat Pure Aero VS 2-Pack,98,27,11.3,320,-6,6,HL,321,67,Low-Medium,Medium-Full,Medium-Fast,16,20,50,59
+43,Babolat Pure Aero,100,27,11.2,318,-4,4,HL,324,67,Low-Medium,Full,Fast,16,19,50,59
+44,Babolat Pure Aero Tour,100,27,11.8,335,-6,6,HL,327,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+45,Babolat Pure Aero Plus,100,27.5,11.3,320,-6,6,HL,330,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+46,Babolat Pure Aero Team,100,27,10.6,301,-4,4,HL,307,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+47,Babolat Pure Aero Lite,100,27,10.1,286,0,0,Bal,311,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+48,Babolat Pure Drive USA,100,27,11.2,318,-4,4,HL,321,71,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+49,Babolat Pure Drive 2021,100,27,11.2,318,-4,4,HL,320,71,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+50,Babolat Pure Drive Plus 2021,100,27.5,11.2,318,-6,6,HL,324,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+51,Babolat Pure Drive Tour 2021,100,27,11.8,335,-6,6,HL,326,70,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+52,Babolat Pure Drive 107 2021,107,27.2,10.6,301,-5,5,HL,309,69,Medium,Medium,Medium,16,19,50,59
+53,Babolat Pure Drive 110 2021,110,27.6,9.5,269,-3,3,HL,298,70,Medium-High,Compact-Medium,Slow-Moderate,16,19,50,59
+54,Babolat Pure Drive Team 2021,100,27,10.6,301,-5,5,HL,313,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+55,Babolat Pure Drive Lite 2021,100,27,10,283,-1,1,HL,299,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+56,Babolat Pure Drive VS,98,27,11.2,318,-4,4,HL,317,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+57,Babolat Pure Strike 16x19 Japan,98,27,11.4,323,-4,4,HL,327,66,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+58,Babolat Pure Strike 16x19 3rd Gen,98,27,11.4,323,-4,4,HL,327,66,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+59,Babolat Pure Strike 18x20 3rd Gen,98,27,11.4,323,-4,4,HL,334,66,Low,Full,Fast,18,20,50,59
+60,Babolat Pure Strike Tour 3rd Gen,98,27,12,340,-6,6,HL,333,65,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+61,Babolat Pure Strike 100 3rd Gen,100,27,11.1,315,-4,4,HL,319,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+62,Babolat Pure Strike Team 3rd Gen,100,27,10.7,303,-1,1,HL,309,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,59
+63,Babolat Pure Strike EVO,102,27,10,283,-4,4,HL,308,65,Low-Medium,Medium-Full,Medium-Fast,16,19,50,55
+64,Babolat Drive Max 110,110,27.5,9.7,274.99,2,2,HH,302,69,High,Compact-Medium,Slow-Moderate,16,20,50,55
+65,Babolat Boost Drive,105,27,9.6,272,3,3,HH,312,65,Medium,Medium,Medium,16,19,50,55
+66,Babolat Boost Drive W,105,27,9.6,272,3,3,HH,312,65,Medium,Medium,Medium,16,19,50,55
+67,Babolat Aero 112,112,27.6,9.8,278,5,5,HH,324,72,Medium,Medium,Medium,16,19,50,59
+68,Babolat Boost S,102,27,10.4,295,-3,3,HL,312,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,55
+69,Babolat Boost Aero Yellow,102,27,9.8,278,2,2,HH,306,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,55
+70,Babolat Boost A W,102,27,9.8,278,2,2,HH,306,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,55
+71,Head Gravity Tour 2021,100,27,11.4,323,-4,4,HL,325,61,Low,Full,Fast,18,20,48,57
+72,Head Gravity Pro 2021,100,27,11.7,332,-6,6,HL,332,62,Low,Full,Fast,18,20,48,57
+73,Head Gravity S 2021,104,27,10.6,301,-3,3,HL,307,61,Low-Medium,Medium-Full,Medium-Fast,16,20,48,57
+74,Head Gravity MP 2021,100,27,11,312,-3,3,HL,323,62,Low-Medium,Medium-Full,Medium-Fast,16,20,48,57
+75,Head Gravity Lite 2021,104,27,10.1,286,0,0,Bal,298,60,Low-Medium,Medium-Full,Medium-Fast,16,20,48,57
+76,Head Graphene 360+ Speed Pro Black Racquets,100,27,11.6,329,-6,6,HL,329,62,Low,Full,Fast,18,20,48,57
+77,Head Graphene 360+ Speed MP Black Racquet,100,27,11.2,318,-4,4,HL,328,64,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+78,Head Graphene 360+ Speed Pro,100,27,11.6,329,-6,6,HL,329,62,Low,Full,Fast,18,20,48,57
+79,Head Graphene 360+ Speed MP Racquets,100,27,11.2,318,-4,4,HL,328,64,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+80,Head Graphene 360+ Speed MP Lite,100,27,10.3,292,-1,1,HL,313,64,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+81,Head Graphene 360+ Speed S,100,27,10.6,301,-4,4,HL,307,69,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+82,Head Graphene 360+ Speed Lite,100,27,9.8,278,2,2,HH,304,68,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+83,Head Graphene 360+ Speed PWR,115,27.4,9.7,275,2,2,HH,319,69,High,Compact,Slow,16,19,52,62
+84,Head Graphene XT Speed MP,100,27,11.1,315,-4,4,HL,320,67,Low-Medium,Full,Fast,16,19,48,57
+85,Head Graphene XT Speed S,100,27,10.7,303.34,-1,1,HL,317,68,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+86,Head Radical Pro 2021,98,27,11.7,332,-6,6,HL,330,65,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+87,Head Radical MP 2021,98,27,11.2,318,-4,4,HL,326,65,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+88,Head Radical S 2021,102,27,10.4,295,-4,4,HL,309,63,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+89,Head Graphene XT Radical MP,98,27,11,312,-6,6,HL,322,63,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+90,Head Graphene XT Radical S,102,27,10.4,294.84,-4,4,HL,301,60,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+91,Head MicroGEL Radical Midplus,98,27,11,312,-2,2,HL,315,62,Low,Full,Fast,18,20,52,62
+92,Head MicroGEL Radical Oversize,107,27,11.1,315,-3,3,HL,318,56,Low,Full,Fast,18,19,52,62
+93,Head Graphene 360+ Prestige Mid,93,27,11.8,335,-7,7,HL,328,65,Low,Full,Fast,16,19,48,57
+94,Head Graphene 360+ Prestige Midplus,98,27,11.9,337,-7,7,HL,323,61,Low,Full,Fast,18,20,48,57
+95,Head Graphene 360+ Prestige Pro,95,27,11.8,335,-6,6,HL,327,65,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+96,Head Graphene 360+ Prestige Tour,99,27,11.4,323,-4,4,HL,326,65,Low,Full,Fast,18,19,48,57
+97,Head Graphene 360+ Extreme Nite Tour,98,27,11.4,323,-6,6,HL,318,65,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+98,Head Graphene 360+ Extreme Nite MP,100,27,11.2,318,-3,3,HL,325,66,Low-Medium,Medium-Full,Medium-Fast,16,19,52,62
+99,Head Graphene 360+ Extreme MP,100,27,11.2,318,-3,3,HL,325,66,Low-Medium,Medium-Full,Medium-Fast,16,19,52,62
+100,Head Graphene 360+ Extreme Tour,98,27,11.4,323,-6,6,HL,318,65,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+101,Head Graphene 360+ Extreme Lite,105,27,9.8,278,3,3,HH,310,67,Low-Medium,Medium-Full,Medium-Fast,16,19,52,62
+102,Head Graphene 360+ Extreme PWR,115,27.7,8.6,244,8,8,HH,307,66,High,Compact,Slow,16,19,52,62
+103,Head Graphene 360+ Extreme S,105,27,10.2,289,1,1,HH,312,66,Low-Medium,Medium-Full,Medium-Fast,16,19,52,62
+104,Head Graphene 360 Extreme Pro,100,27,11.6,329,-6,6,HL,331,64,Low-Medium,Medium-Full,Medium-Fast,16,19,52,62
+105,Head Graphene 360+ Instinct MP,100,27,11.2,318,-4,4,HL,314,64,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+106,Head Graphene 360+ Instinct Lite,107,27.2,10,283,1,1,HH,308,63,Medium,Medium,Medium,16,19,48,57
+107,Head Graphene 360+ Instinct PWR,115,27.7,8.6,244,9,9,HH,312,70,Medium-High,Compact-Medium,Slow-Moderate,16,19,52,62
+108,Head Graphene XT Instinct MP,100,27,11.1,314.68,-5,5,HL,319,66,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+109,Head Graphene XT Instinct S,102,27,10,283.5,2,2,HH,302,71,Low-Medium,Medium-Full,Medium-Fast,16,19,48,57
+110,Head Graphene XT Instinct PWR,115,27.7,8.6,243.81,11,11,HH,316,70,Medium-High,Compact-Medium,Slow-Moderate,16,19,52,62
+111,Head Graphene 360+ Instinct PWR,115,27.7,8.6,244,9,9,HH,312,70,Medium-High,Compact-Medium,Slow-Moderate,16,19,52,62
+112,Head Graphene 360+ Extreme PWR,115,27.7,8.6,244,8,8,HH,307,66,High,Compact,Slow,16,19,52,62
+113,Head Graphene 360+ Speed PWR,115,27.4,9.7,275,2,2,HH,319,69,High,Compact,Slow,16,19,52,62
+114,Head Graphene XT Instinct PWR,115,27.7,8.6,243.81,11,11,HH,316,70,Medium-High,Compact-Medium,Slow-Moderate,16,19,52,62
+115,Head Pro Tour 2.0,97,27,12.1,343,-6,6,HL,335,65,Low,Full,Fast,18,20,50,60
+116,Head Titanium Ti.S6 Strung,115,27.75,8.9,252,8,8,HH,318,75,High,Slow-Moderate,,16,19,57,66
+117,Head Titanium Ti.S5 Comfort Zone,107,27.75,8.5,241,7,7,HH,297,68,Medium-High,Slow-Moderate,,16,19,55,64
+118,Yonex EZONE 100 Naomi Osaka LE,100,27,11.2,318,-4,4,HL,322,69,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+119,Yonex EZONE 98 Naomi Osaka LE,98,27,11.3,320,-6,6,HL,317,64,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+120,Yonex EZONE 98 Tour,98,27,11.7,332,-4,4,HL,330,62,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+121,Yonex EZONE 98+,98,27.5,11.4,323,-5,5,HL,334,64,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+122,Yonex EZONE 100+,100,27.5,11.1,315,-3,3,HL,335,70,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+123,Yonex EZONE 98,98,27,11.3,320,-6,6,HL,317,64,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+124,Yonex EZONE 100,100,27,11.2,318,-4,4,HL,322,69,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+125,Yonex EZONE 100L,100,27,10.6,301,-3,3,HL,310,68,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+126,Yonex EZONE 98L,98,27,10.6,301,-1,1,HL,313,64,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+127,Yonex EZONE Feel,102,27,9.4,266,4,4,HH,293,68,Low-Medium,Medium-Full,Medium-Fast,16,18,40,55
+128,Yonex EZONE 108,108,27.25,9.6,272,-1,1,HL,305,68,Medium,Medium,Medium,16,18,40,55
+129,Yonex EZONE 105,105,27,10,283,-1,1,HL,304,66,Medium,Medium,Medium,16,19,40,55
+130,Yonex EZONE Ace,102,27,9.7,275,3,3,HH,307,67,Low-Medium,Medium-Full,Medium-Fast,16,19,40,55
+131,Yonex VCORE 98+,98,27.5,11.4,323,-5,5,HL,334,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+132,Yonex VCORE 100+,100,27.5,11.2,318,-3,3,HL,333,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+133,Yonex VCORE 95,95,27,11.5,326,-7,7,HL,316,64,Low,Full,Fast,16,20,45,60
+134,Yonex VCORE 98,98,27,11.4,323,-6,6,HL,325,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+135,Yonex VCORE 98L,98,27,10.6,301,-4,4,HL,307,65,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+136,Yonex VCORE 100,100,27,11.3,320,-4,4,HL,324,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+137,Yonex VCORE 100L,100,27,10.5,298,-2,2,HL,306,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+138,Yonex VCORE Ace,98,27,9.7,275,3,3,HH,303,66,Low-Medium,Medium-Full,Medium-Fast,16,20,40,55
+139,Yonex VCORE Feel,100,27,9.3,264,3,3,HH,290,64,Low-Medium,Medium-Full,Medium-Fast,16,18,40,55
+140,Yonex VCORE PRO 97 330,97,27,12.3,349,-7,7,HL,332,65,Low,Full,Fast,16,19,45,60
+141,Yonex VCORE PRO 97 310,97,27,11.5,326,-7,7,HL,318,64,Low,Full,Fast,16,19,45,60
+142,Yonex VCORE PRO 97HD 18x20,97,27,11.9,337,-7,7,HL,326,59,Low,Full,Fast,18,20,45,60
+143,Yonex VCORE PRO 100 300,100,27,11.2,318,-4,4,HL,323,65,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+144,Yonex VCORE PRO 100 280,100,27,10.4,295,0,0,Bal,316,65,Low-Medium,Medium-Full,Medium-Fast,16,19,45,60
+145,Yonex ASTREL 100,100,27,10.4,295,-4,4,HL,297,68,Low-Medium,Medium-Full,Medium-Fast,16,18,40,55
+146,Yonex ASTREL 105,105,27,9.8,278,-1,1,HL,298,68,Medium-High,Medium-Full,Slow-Moderate,16,18,40,55
+147,Yonex ASTREL 115,115,26.75,9.7,275,2,2,HH,292,68,Medium-High,Medium-Full,Slow-Moderate,16,17,40,55
+148,Prince Vortex 300g,100,27,11.2,318,-6,6,HL,321,65,Low-Medium,Medium-Full,Medium-Fast,14,21,45,55
+149,Prince Vortex 310g,100,27,11.5,326,-7,7,HL,320,63,Low-Medium,Medium-Full,Medium-Fast,14,21,45,55
+150,Prince Twistpower X97 Tour,97,27,11.6,329,-7,7,HL,321,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,55
+151,Prince Twistpower X100,100,27,10.8,306,-4,4,HL,314,66,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+152,Prince Ripstick 100 280g,100,27,10.4,295,2,2,HH,319,63,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+153,Prince Ripstick 100 300g,100,27,11.2,318,-4,4,HL,325,64,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+154,Prince Chrome 100 300g,100,27,11.2,318,-6,6,HL,321,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+155,Prince Warrior 100 (300g),100,27,11.2,318,-6,6,HL,311,65,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+156,Prince Warrior 107,107,27,10.2,289,0,0,Bal,313,68,Low-Medium,Compact-Medium,Medium-Fast,16,19,50,60
+157,Prince Textreme Warrior 100,100,27,11.14,315.81,-6,6,HL,320,66,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+158,Prince Phantom 107G,107,27,11.4,323,-7,7,HL,319,63,Low-Medium,Medium-Full,Medium-Fast,16,19,45,55
+159,Prince Phantom 100G,100,27,11.5,326,-7,7,HL,318,59,Low,Full,Fast,16,18,45,55
+160,Prince Phantom 100G LB,100,28,11.6,329,-9,9,HL,335,59,Low,Full,Fast,16,18,45,55
+161,Prince Phantom 93P (18x20),93,27,12.2,346,-9,9,HL,329,60,Low,Full,Fast,18,20,45,55
+162,Prince Phantom 93P (14x18),93,27,12.1,343,-7,7,HL,329,62,Low,Full,Fast,14,18,45,55
+163,Prince Phantom 97P,97,27,11.8,335,-8,8,HL,320,58,Low,Full,Fast,16,18,48,58
+164,Prince Phantom 100P,100,27,11.5,326,-6,6,HL,328,59,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+165,Prince Phantom 100X 305,100,27,11.4,323,-6,6,HL,321,58,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+166,Prince Phantom 100X 290,100,27,10.8,306,-4,4,HL,319,58,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+167,Prince Phantom 100X 18x20,100,27,11.8,335,-9,9,HL,324,59,Low,Full,Fast,18,20,45,55
+168,Prince Phantom O3 100X,100,27,11.5,326,-7,7,HL,325,60,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+169,Prince Synergy 98,98,27,11.4,323,-4,4,HL,334,60,Low,Full,Fast,18,18,50,60
+170,Prince CTS Synergy DB26,97,27,12.2,346,-7,7,HL,326,65,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+171,Prince Classic Graphite 107,107,27,12.2,345.86,-6,6,HL,336,65,Low-Medium,Medium-Full,Medium-Fast,16,19,57,67
+172,Prince Textreme Tour 95,95,27,11.9,337,-8,8,HL,325,64,Low,Full,Fast,16,19,45,55
+173,Prince Textreme Tour 100P,100,27,11.5,326,-7,7,HL,324,66,Low,Full,Fast,18,20,45,55
+174,Prince Textreme Tour 100 (310),100,27,11.5,326,-7,7,HL,322,65,Low-Medium,Medium-Full,Medium-Fast,16,18,48,58
+175,Prince Textreme Tour 100 (290),100,27,10.8,306,-3,3,HL,324,65,Low-Medium,Medium-Full,Medium-Fast,16,18,48,58
+176,Prince Textreme Tour 100L (260),100,27,9.8,278,-1,1,HL,314,65,Low-Medium,Medium-Full,Medium-Fast,16,18,48,58
+177,Prince Legacy 120,120,27.25,9.4,266,8,8,HH,317,73,High,Compact,Slow,16,19,50,60
+178,Prince O3 Legacy 105,105,27.25,10.4,295,0,0,Bal,321,67,Medium-High,Compact-Medium,Slow-Moderate,16,19,53,63
+179,Prince O3 Legacy 110,110,27.25,10.1,286,3,3,HH,327,73,Medium,Medium,Medium,16,19,53,63
+180,Prince O3 Legacy 120,120,27.25,9.7,275,5,5,HH,328,72,High,Compact,Slow,16,19,55,65
+181,Prince Twistpower X100,100,27,10.8,306,-4,4,HL,314,66,Low-Medium,Medium-Full,Medium-Fast,16,18,45,55
+182,Tecnifibre TF-X1 300,100,27,11.1,315,-4,4,HL,323,71,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+183,Tecnifibre TF-X1 285,100,27,10.5,298,-2,2,HL,316,71,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+184,Tecnifibre TF-X1 275,105,27,10.2,289,-1,1,HL,310,69,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+185,Tecnifibre TRebound 298 IGA,98,27,11,312,-4,4,HL,319,71,Low-Medium,Medium-Full,Medium-Fast,16,19,50,55
+186,Tecnifibre TFight 305 RS,98,27,11.4,323,-3,3,HL,333,67,Low-Medium,Full,Fast,18,19,50,55
+187,Tecnifibre TFight 315 RS,98,27,11.7,332,-7,7,HL,321,69,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+188,Tecnifibre TFight 300 RS,98,27,11.2,318,-4,4,HL,320,66,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+189,Tecnifibre TFight 295 RS,100,27,11,312,-3,3,HL,318,70,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+190,Tecnifibre TF40 305,98,27,11.3,320,-3,3,HL,326,64,Low,Full,Fast,18,20,49,55
+191,Tecnifibre TF40 315,98,27,11.8,335,-7,7,HL,323,64,Low,Full,Fast,18,20,49,55
+192,Tecnifibre TFlash 300 CES,100,27,11.3,320,-6,6,HL,320,72,Low-Medium,Medium-Full,Medium-Fast,16,19,49,55
+193,Dunlop CX 200 Tour 18x20,95,27,11.7,332,-7,7,HL,319,62,Low,Full,Fast,18,20,45,65
+194,Dunlop CX 200 Tour 16x19,95,27,11.5,326,-7,7,HL,318,63,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+195,Dunlop CX 400 Tour,100,27,11.2,318,-4,4,HL,322,66,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+196,Dunlop CX 200,98,27,11.4,323,-6,6,HL,317,64,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+197,Dunlop CX 200 OS,105,27,11,312,-3,3,HL,313,61,Low-Medium,Medium-Full,Medium-Fast,16,19,40,60
+198,Dunlop CX 400,100,27,10.7,303,-1,1,HL,319,71,Low-Medium,Medium-Full,Medium-Fast,16,19,40,60
+199,Dunlop FX 500,100,27,11.2,318,-4,4,HL,314,71,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+200,Dunlop FX 500 Tour,98,27,11.4,323,-6,6,HL,318,69,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+201,Dunlop FX 500 LS,100,27,10.6,301,-3,3,HL,300,71,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+202,Dunlop FX 500 Lite,100,27,10,283,-1,1,HL,293,70,Low-Medium,Medium-Full,Medium-Fast,16,19,45,65
+203,Dunlop FX 700,107,27.5,9.8,278,0,0,Bal,321,68,Medium,Medium,Medium,16,19,40,60
+204,Dunlop SX 300 Tour,100,27,11.7,332,-6,6,HL,336,65,Low-Medium,Compact-Medium,Medium-Fast,16,19,45,65
+205,Dunlop SX 300,100,27,11.3,320,-4,4,HL,326,65,Low-Medium,Compact-Medium,Medium-Fast,16,19,45,65
+206,Dunlop SX 300 Lite,100,27,10.2,289,-2,2,HL,302,67,Low-Medium,Compact-Medium,Medium-Fast,16,19,45,65
+207,Dunlop SX 300 LS,100,27,10.8,306,-3,3,HL,318,68,Low-Medium,Compact-Medium,Medium-Fast,16,19,45,65
+208,Dunlop SX 600,105,27.25,10.2,289,-1,1,HL,313,66,Medium,Medium,Medium,16,19,40,60
+209,Dunlop LX 800,110,27.5,9.6,272,5,5,HH,307,74,Medium-High,Compact-Medium,Slow-Moderate,16,18,40,55
+210,Dunlop LX 1000,115,27.5,9.5,269,6,6,HH,321,75,High,Compact,Slow,16,18,40,55
+211,Volkl V-Cell 10 300g,98,27,11.1,315,-3,3,HL,311,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+212,Volkl V-Cell 10 320g,98,27,11.8,335,-7,7,HL,319,67,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+213,Volkl V-Cell 8 315g,100,27,11.5,326,-7,7,HL,315,66,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+214,Volkl V-Cell 8 300g,100,27,11,312,-5,5,HL,312,67,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+215,Volkl V-Cell 8 285g,100,27,10.5,298,-4,4,HL,303,70,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+216,Volkl V-Cell 9,100,27,11.5,326,-6,6,HL,317,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+217,Volkl V-Cell 1,115,27.8,9.6,272,4,4,HH,312,70,Medium-High,Compact-Medium,Slow-Moderate,16,17,48,58
+218,Volkl V-Cell 3,110,27.8,10,283,-2,2,HL,313,69,Medium-High,Compact-Medium,Slow-Moderate,16,19,46,60
+219,Volkl V-Cell 5,100,27,9.8,278,-1,1,HL,287,69,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+220,Volkl V-Cell 4,105,27.6,10.2,289,-5,5,HL,304,68,Medium,Medium,Medium,16,19,46,60
+221,Volkl V-Cell 6,100,27,10.2,289,-2,2,HL,303,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+222,Volkl V-Cell 2,115,27.6,10,283,2,2,HH,322,71,Medium-High,Compact-Medium,Slow-Moderate,16,19,46,60
+223,Volkl V-Feel V8 Pro,100,27,11.2,318,-6,6,HL,316,67,Low,Full,Fast,18,20,50,60
+224,Volkl V-Feel V1 Pro,99,27,11.3,320,-3,3,HL,323,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+225,Volkl V-Feel V1 MP,102,27,10.6,301,-3,3,HL,307,68,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60
+226,Volkl V-Feel V1 OS,110,27.6,10.7,303,-5,5,HL,312,68,Medium-High,Compact-Medium,Medium-Fast,16,19,50,60
+227,Volkl V-Feel 5,100,27,9.8,278,-1,1,HL,296,69,Low-Medium,Medium-Full,Medium-Fast,16,18,50,60
+228,Volkl V-Feel 7,104,27.3,10.8,306,-3,3,HL,321,71,Medium,Medium,Medium,16,19,50,60
+229,Volkl V-Feel 10 (320),98,27,11.9,337,-6,6,HL,323,66,Low,Full,Fast,16,19,50,60
+230,Volkl V-Feel 10 (300),98,27,11.2,318,-3,3,HL,312,69,Low,Full,Fast,16,19,50,60
+231,Volkl V-Feel 2,115,27.6,10,283,2,2,HH,317,68,Medium-High,Compact-Medium,Slow-Moderate,16,19,46,60
+232,Volkl C10 Pro,98,27,12.3,349,-8,8,HL,330,64,Low,Full,Fast,16,19,50,60
+233,Volkl V1 Classic,102,27,10.8,306,-1,1,HL,318,69,Low-Medium,Medium-Full,Medium-Fast,16,19,50,60

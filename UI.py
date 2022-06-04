@@ -44,8 +44,15 @@ def save_inputs():
     inputs["strung weight"] = float(input_entries[2].get())
     inputs["weight distribution"] = input_entries[3].get()
     inputs["balance point"] = float(input_entries[4].get())
-    recc = Recommender(inputs["head size"], inputs["length"], inputs["strung weight"], inputs["weight distribution"], inputs["balance point"])
+    inputs["brand"] = input_entries[5].get()
+    recc = get_recommendation(inputs)
+    #recc = Recommender(inputs["head size"], inputs["length"], inputs["strung weight"], inputs["weight distribution"], inputs["balance point"], inputs["brand"])
     display_results_frame(recc.get_recs())
+
+def get_recommendation(inputs):
+    recc = Recommender(inputs["head size"], inputs["length"], inputs["strung weight"], inputs["weight distribution"], inputs["balance point"], inputs["brand"])
+    
+    return recc
 
 def display_results_frame(recommendations):
     input_frame.pack_forget()
@@ -66,7 +73,7 @@ def clear_results():
     input_frame.pack()
 
 def presence_check(*args):
-    if input_entries[0].get() and input_entries[1].get() and input_entries[2].get() and input_entries[3].get() and input_entries[4].get():
+    if input_entries[0].get() and input_entries[1].get() and input_entries[2].get() and input_entries[3].get() and input_entries[4].get() and input_entries[5].get():
         SUBMIT_B.config(state='normal')
     else:
         SUBMIT_B.config(state='disabled')
@@ -78,7 +85,8 @@ def presence_check(*args):
         BALANCE_POINT_I.config(state='normal')
 
 def export():
-    recc = Recommender(0, 0, 0, "balanced", 0)
+    recc = get_recommendation(inputs)
+    recc.get_recs()
     recc.export_csv()
 
 def close():
@@ -95,14 +103,15 @@ LENGTH = Label(input_frame, text="Length (in.):", font=("Calibri", 15))
 STRUNG_WEIGHT = Label(input_frame, text="Strung weight (g):", font=("Calibri", 15))
 WEIGHT_DISTRIBUTION = Label(input_frame, text="Weight distribution:", font=("Calibri", 15))
 BALANCE_POINT = Label(input_frame, text="Balance point:", font=("Calibri", 15))
-INPUT_TEXT = [APP_TITLE, INSTRUCTIONS, HEAD_SIZE, LENGTH, STRUNG_WEIGHT, WEIGHT_DISTRIBUTION, BALANCE_POINT]
+BRAND = Label(input_frame, text="Brand:", font=("Calibri", 15))
+INPUT_TEXT = [APP_TITLE, INSTRUCTIONS, HEAD_SIZE, LENGTH, STRUNG_WEIGHT, WEIGHT_DISTRIBUTION, BALANCE_POINT, BRAND]
 RESULTS = Label(results_frame, text="Recommendations based on your preferences:", font=("Calibri", 25))
 
 # App buttons
 SUBMIT_B = Button(input_frame, text="Submit", bg="#3c9a12", fg="white", font=("Calibri", 25), state='disabled', command=save_inputs)
 INPUT_AGAIN_B = Button(results_frame, text="Input Again", bg="#3c9a12", fg="white", font=("Calibri", 25), command=clear_results)
-EXCEL_EXPORT_B = Button(results_frame, text="Export all racquet data as CSV", bg="#3c9a12", fg="white", font=("Calibri", 25), command=export)
-EXCEL_TIP = Hovertip(EXCEL_EXPORT_B, "Export detailed racquet specs to an Excel-compatible format for data-centric comparison\nMust have a spreadsheet program")
+EXCEL_EXPORT_B = Button(results_frame, text="Export racquet data as CSV", bg="#3c9a12", fg="white", font=("Calibri", 25), command=export)
+EXCEL_TIP = Hovertip(EXCEL_EXPORT_B, "Export recommended racquet specs to an Excel-compatible format for spec comparison\nMust have a spreadsheet program")
 EXIT_B = Button(results_frame, text="Exit", bg="#3c9a12", fg="white", font=("Calibri", 25), command=close)
 
 # Input storage
@@ -111,12 +120,14 @@ length = StringVar()
 strung_weight = StringVar()
 weight_distribution = StringVar()
 balance_point = StringVar()
+brand = StringVar()
 head_size.trace("w", presence_check)
 length.trace("w", presence_check)
 strung_weight.trace("w", presence_check)
 weight_distribution.trace("w", presence_check)
 balance_point.trace("w", presence_check)
-input_entries = [head_size, length, strung_weight, weight_distribution, balance_point]
+brand.trace("w",  presence_check)
+input_entries = [head_size, length, strung_weight, weight_distribution, balance_point, brand]
 
 # Input fields
 reg = root.register(callback)
@@ -126,7 +137,8 @@ STRUNG_WEIGHT_I = Entry(input_frame, text="strung weight", textvariable=strung_w
 WEIGHT_DISTRIBUTION_I = Entry(input_frame, text="weight distribution", font=("Calibri", 15), width=12)
 WEIGHT_DISTRIBUTION_D = ttk.Combobox(input_frame, text="weight distribution", textvariable=weight_distribution, font=("Calibri", 15), state="readonly", values=["Head light", "Balanced", "Head heavy"], width=12)
 BALANCE_POINT_I = Entry(input_frame, text="balance point", textvariable=balance_point, font=("Calibri", 15), width=5)
-INPUT_FIELDS = [HEAD_SIZE_I, LENGTH_I, STRUNG_WEIGHT_I, WEIGHT_DISTRIBUTION_D, BALANCE_POINT_I]
+BRAND_D = ttk.Combobox(input_frame, text="brand", textvariable=brand, font=("Calibri", 15), state="readonly", values=["Any Brand", "Babolat", "Dunlop", "Head", "Prince", "Technifibre", "Volkl", "Wilson", "Yonex"], width=10)
+INPUT_FIELDS = [HEAD_SIZE_I, LENGTH_I, STRUNG_WEIGHT_I, WEIGHT_DISTRIBUTION_D, BALANCE_POINT_I, BRAND_D]
 inputs = {}
 first_result_text = StringVar()
 second_result_text = StringVar()
